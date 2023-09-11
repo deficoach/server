@@ -11,6 +11,7 @@ pip3 install web3
 pip3 install pytelegrambotapi
 pip3 install cherrypy
 pip3 install pysqlite3
+pip3 install websockets --upgrade
 
 # pip3 install binance-connector
 # pip3 install blocknative-sdk
